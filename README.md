@@ -13,7 +13,7 @@ Welcome to my humble abode in the Digital World.. There are 10 types of people i
 ✍️ &nbsp;In my free time, I enjoy watching MotorSports or play the Kalimba. Currently on the LeetCode grind.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at amitsat@umich.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://amitsathya.github.io/portfolio/assets/Resume_Amit.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Résumé](https://amitsathya.github.io/portfolio/assets/Amit_Sathyaseelan_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
